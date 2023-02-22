@@ -1,0 +1,66 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+  
+ body{
+    font-family: sans-serif;
+    min-height: 100%;
+    color: #555;
+ }
+
+.nav-wraps{
+    width:  100%;
+    box-shadow: 0 5px 5px rgba(0,0,0,0.15);
+    background-color: #fff;
+ }
+ 
+ .logos{
+    font-size: 24px;
+    padding-left: 20px;
+    font-weight: bold;
+    color: #227faf;
+ }
+  
+ .linkss{
+    width:  100%;
+    position: absolute;
+    top: 60px;
+    background-color: #4e6696;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s;
+ }
+  
+ .linkss a{
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    padding: 15px 25px;
+    border-bottom: thin dotted #728aba;
+    text-transform: uppercase;
+    transition: background-color 0.3s, color 0.3s;
+ }
+  
+ .linkss a:hover, .linkss a.active{
+    background-color: #7396dd;
+ }
+  
+ nav .icons{
+    justify-self: end;
+    font-size: 24px;
+    padding-right: 20px;
+    cursor: pointer;
+ }
+
+ .main{
+    width: 100%;
+    background:linear-gradient(to top,rgba(0, 0, 0.5, 0.5)0%,rgba(0, 0, 0.5, 0.5)0%),url(header.jpg) ;
+    background-position:center ;
+    background-size:cover ;
+    height:109vh;
+ 
+ }
