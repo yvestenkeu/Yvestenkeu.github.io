@@ -1,0 +1,58 @@
+[
+    {
+        "image":"dresses/homme-pantalon-de-costume-slim-.jpg",
+        "title":"pantalon carreaux",
+        "description":"pantalon slim pour costume homme",
+        "price":"6000XAF"
+    },
+    {
+        "image":"dresses/militaire.jfif",
+        "title":"pantalon Armee",
+        "description":"pantalon millitaire pour homme",
+        "price":"6500XAF"
+    },
+    {
+        "image":"dresses/jogg.jfif",
+        "title":"Survettement",
+        "description":"jogging pour homme",
+        "price":"13500XAF"
+    },
+    {
+        "image":"dresses/R (1).jfif",
+        "title":"Robe legere",
+        "description":"robe pour femme",
+        "price":"5500XAF"
+    },
+    {
+        "image":"dresses/OIP (1).jfif",
+        "title":"Robe legere",
+        "description":"robe pour femme",
+        "price":"5500XAF"
+    },
+    {
+        "image":"dresses/OIP (2).jfif",
+        "title":"Robe cuire",
+        "description":"robe pour femme",
+        "price":"5500XAF"
+    },
+    {
+        "image":"dresses/R (2).jfif",
+        "title":"Robe legere",
+        "description":"robe pour femme",
+        "price":"5500XAF"
+    },
+    
+    {
+        "image":"dresses/R (4).jfif",
+        "title":"Robe moulante",
+        "description":"robe pour femme",
+        "price":"5500XAF"
+    },
+    {
+        "image":"dresses/OIP (3).jfif",
+        "title":"Robe moulante longue",
+        "description":"robe pour femme",
+        "price":"5500XAF"
+    }
+
+]
